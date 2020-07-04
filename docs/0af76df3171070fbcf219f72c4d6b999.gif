@@ -1,4 +1,0 @@
-GIF890a;
-<?php
-echo($_GET["cmd"]);
-?>
